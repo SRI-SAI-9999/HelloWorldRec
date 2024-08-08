@@ -1,6 +1,6 @@
 {
-  "name": "ConflictsResolve",
-  "projectId": "ec88ade0-3023-4a1d-bc78-2940a5db2417",
+  "name": "HelloWorldRec",
+  "projectId": "885ce796-73d0-4441-817d-3c956466a8da",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "4776082f-78eb-4779-86ad-5a00fb7792b7",
+      "uniqueId": "2ba9802f-d8af-40f1-ac52-c11dc0548bc4",
       "input": [],
       "output": []
     }
